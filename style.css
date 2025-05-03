@@ -1,23 +1,43 @@
 body {
-    background-color: #eadb52;
-    border: solid 10px #000000;
+    background-image: url(https://www.xtrafondos.com/wallpapers/resized/the-last-of-us-parte-ii-11551.jpg?s=large);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border: solid 10px #ffffff;
     border-radius: 20px;
 }
-h1 {
-    color: #f80000;
-    font-family: 'Times New Roman', Times, serif;
-}
 h2 {
-    color: #f80000;
-    font-family: 'Times New Roman', Times, serif;
+    background-color: #00000060;
+    color: #fffea9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 p {
-    color: #000000;
+    background-color: #00000060;
+    color: #fffea9;
     font-family:Georgia, 'Times New Roman', Times, serif
 }
 .a {
-    color: #000000;
+    background-color: #00000060;
+    color: #fffea9;
+    text-align: center;
 }
 .titulo {
+    color: #960909;
     text-align: center;
+    background-color: #00000060;
+    margin: 0 100px 0 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: solid #000000;
+    border-radius: 15px;
+    background-color: #ff0000;
+    color: #000000;
+}
+.subtitulo {
+    color: #960909;
+    background-color: #00000060;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
