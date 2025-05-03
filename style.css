@@ -1,0 +1,29 @@
+body {
+    background-color: #eadb52;
+    border: solid 10px #000000;
+    border-radius: 20px;
+}
+h1 {
+    color: #f80000;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    color: #f80000;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    color: #000000;
+}
+.a {
+    color: #000000;
+}
+.boton {
+    background-color: #00ffcc;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    font-style: italic;
+    border-radius: 10px;
+}
+.titulo {
+    text-align: center;
+}
